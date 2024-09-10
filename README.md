@@ -28,3 +28,11 @@ contract MySimpleContract {
         return value;
     }
 }
+
+
+
+▎4. کامپایل کردن اسمارت کانترکت
+
+1. به تب "Solidity Compiler" بروید (آیکون مربوط به کامپایلر).
+2. نسخه Solidity را به 0.8.0 یا بالاتر تنظیم کنید.
+3. روی دکمه "Compile MySimpleContract.sol" کلیک کنید.
