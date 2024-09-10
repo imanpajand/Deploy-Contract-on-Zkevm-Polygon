@@ -10,10 +10,14 @@
 2. نام فایل را MySimpleContract.sol بگذارید.
 
 
+▎3. نوشتن اسمارت کانترکت
+
+کد زیر را در فایل MySimpleContract.sol وارد کنید:
+
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MyContract {
+contract MySimpleContract {
     uint public value;
 
     function setValue(uint _value) public {
